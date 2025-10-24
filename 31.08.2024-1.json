@@ -1,0 +1,25 @@
+{
+    "name": "Lacey Taylor",
+    "age": 113,
+    "address": {
+        "street": "Fowler Stravenue",
+        "city": "East Lorihaven",
+        "state": "Colorado",
+        "zip": "23125"
+    },
+    "contact": {
+        "phone": "001-971-883-2287x6227",
+        "servicePhone": "800037535"
+    },
+    "birthday": "1912-18-01",
+    "ip": "44.132.218.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Special decision hair.\nPrice name second box region. Forget eye purpose seek. Truth drive how himself kitchen.\nFree study civil reduce responsibility. For kitchen your reduce.",
+        "bio": "Customer far wear staff order. Sign challenge season market property fine. Meet contain again continue."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
