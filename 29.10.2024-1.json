@@ -1,0 +1,25 @@
+{
+    "name": "Allison Watkins",
+    "age": 80,
+    "address": {
+        "street": "Andrew Lights",
+        "city": "East Juliehaven",
+        "state": "Kansas",
+        "zip": "91506"
+    },
+    "contact": {
+        "phone": "(944)627-8398x1340",
+        "servicePhone": "800423005"
+    },
+    "birthday": "1945-14-12",
+    "ip": "194.249.155.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Arm myself professional live parent large. Mention our budget field describe person.\nFeel cup right center choice produce. Friend year campaign full worker wish.",
+        "bio": "Social practice technology. Meeting form want create professor maybe. Old population thing tend century."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
