@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Jefferson",
+    "age": 35,
+    "address": {
+        "street": "Williams Squares",
+        "city": "Port Johnside",
+        "state": "Pennsylvania",
+        "zip": "17133"
+    },
+    "contact": {
+        "phone": "592.967.7278x2784",
+        "servicePhone": "800577653"
+    },
+    "birthday": "1990-09-01",
+    "ip": "15.92.215.3",
+    "foo": "bar",
+    "profile": {
+        "about": "It safe remember himself. Gun learn budget recently great.\nEverything leg experience central top kind doctor within.\nMovement life number star at or wonder. Professional card lose around.",
+        "bio": "Really ground chance trouble receive force movement process. Its include include.\nKitchen memory dark. Child economic show common always avoid."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
