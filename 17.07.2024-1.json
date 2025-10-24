@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Mccann",
+    "age": 107,
+    "address": {
+        "street": "Kerry Crescent",
+        "city": "Weaverport",
+        "state": "Nevada",
+        "zip": "94171"
+    },
+    "contact": {
+        "phone": "444.591.5192",
+        "servicePhone": "800893687"
+    },
+    "birthday": "1918-06-11",
+    "ip": "10.164.188.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Majority activity cup approach could white anyone. Begin successful short free very truth. International arm suffer senior shake car experience several.",
+        "bio": "Practice fact product story identify enter reflect site. Network station ten might condition. Relationship foreign leg.\nType opportunity quickly television opportunity poor. Gun help far collection."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
