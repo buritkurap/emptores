@@ -1,0 +1,25 @@
+{
+    "name": "Dale Mcclure",
+    "age": 56,
+    "address": {
+        "street": "Davis Point",
+        "city": "Gentryburgh",
+        "state": "Texas",
+        "zip": "95841"
+    },
+    "contact": {
+        "phone": "+1-508-620-7904x007",
+        "servicePhone": "800576955"
+    },
+    "birthday": "1969-10-05",
+    "ip": "53.226.114.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Control crime team population. Necessary chance each leader. Himself fly consider president high.\nAnd soon second story. Government change ball company whatever job range.",
+        "bio": "Hear paper both culture player among animal. Star me across. Among high whose before common see case."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
