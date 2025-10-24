@@ -1,0 +1,25 @@
+{
+    "name": "Gary Mckenzie",
+    "age": 72,
+    "address": {
+        "street": "Wayne Junction",
+        "city": "Johnshire",
+        "state": "Texas",
+        "zip": "97697"
+    },
+    "contact": {
+        "phone": "001-462-344-8612x6094",
+        "servicePhone": "800939896"
+    },
+    "birthday": "1953-04-04",
+    "ip": "210.72.114.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Color north recognize still notice. Staff left realize treatment write red better.\nAction race market close visit and. Perform word offer agency letter.",
+        "bio": "Design real moment like. Suggest smile whole analysis such mission range.\nBecause entire movie remember it respond. Certainly condition else view determine."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
