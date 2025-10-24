@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Williams",
+    "age": 97,
+    "address": {
+        "street": "Moore Avenue",
+        "city": "New Ashleymouth",
+        "state": "Oklahoma",
+        "zip": "71310"
+    },
+    "contact": {
+        "phone": "+1-787-659-7391x936",
+        "servicePhone": "800213889"
+    },
+    "birthday": "1928-04-03",
+    "ip": "28.85.144.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Near phone fall challenge somebody game group she. Week conference image against. Far analysis important gun growth production language. Along various stop growth live drive.",
+        "bio": "Throw end common any run policy as.\nCell same safe reduce article fact TV. Measure training perform. Receive class certainly though occur."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
