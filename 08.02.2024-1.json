@@ -1,0 +1,25 @@
+{
+    "name": "Eric Mckee",
+    "age": 42,
+    "address": {
+        "street": "Chapman Roads",
+        "city": "Waltersfurt",
+        "state": "Connecticut",
+        "zip": "65538"
+    },
+    "contact": {
+        "phone": "001-844-645-0347x14215",
+        "servicePhone": "800919735"
+    },
+    "birthday": "1983-24-09",
+    "ip": "75.31.64.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil improve decide drive heavy sure institution beyond. Reflect recently matter politics often.\nBusiness work fine produce interview.",
+        "bio": "Task agency cultural college.\nNot response physical night its way nation. Type start office give yet. Imagine poor six area performance need."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
