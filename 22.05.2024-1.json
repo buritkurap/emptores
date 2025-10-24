@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Jackson",
+    "age": 11,
+    "address": {
+        "street": "Jones Village",
+        "city": "New Denisefort",
+        "state": "Michigan",
+        "zip": "89233"
+    },
+    "contact": {
+        "phone": "201-605-9039",
+        "servicePhone": "800903068"
+    },
+    "birthday": "2014-07-10",
+    "ip": "80.50.33.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Public spend represent mother they country. Debate two chance now medical maybe.\nPlant suffer wish senior. Air support hope American style local name building.",
+        "bio": "Often much no smile. Deep economy system.\nPay agreement himself field drive something news. Bring year institution.\nClass even decision every."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
