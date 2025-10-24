@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Jenkins",
+    "age": 1,
+    "address": {
+        "street": "Mercer Stream",
+        "city": "Sheahaven",
+        "state": "Michigan",
+        "zip": "64107"
+    },
+    "contact": {
+        "phone": "001-581-502-6265x241",
+        "servicePhone": "800114736"
+    },
+    "birthday": "2024-02-03",
+    "ip": "36.195.142.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Describe student lot stuff push ready. Analysis choose about.\nIdentify book deep mention. Rich environmental pattern end support.",
+        "bio": "International when former wait enough actually guy. President truth but blood painting back. You court business plan."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
