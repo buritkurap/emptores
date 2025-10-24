@@ -1,0 +1,25 @@
+{
+    "name": "Jill Davila",
+    "age": 58,
+    "address": {
+        "street": "Bond Walk",
+        "city": "North Jaimeton",
+        "state": "Florida",
+        "zip": "83182"
+    },
+    "contact": {
+        "phone": "2355379496",
+        "servicePhone": "800120715"
+    },
+    "birthday": "1967-27-02",
+    "ip": "210.80.76.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Our citizen state sense stay last. Remain conference thousand door deep able central. Including deep onto usually believe method. Health writer live economy.",
+        "bio": "Audience special country include after church eye. Different figure southern.\nBuilding most imagine than. Hear off outside civil full lead pass.\nTable lot probably. Nearly job arrive spend me plan."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
