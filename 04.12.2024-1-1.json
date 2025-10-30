@@ -1,0 +1,25 @@
+{
+    "name": "Carla Green",
+    "age": 90,
+    "address": {
+        "street": "Angela Squares",
+        "city": "West Jenniferborough",
+        "state": "Oregon",
+        "zip": "48957"
+    },
+    "contact": {
+        "phone": "+1-903-882-5726x0067",
+        "servicePhone": "800496720"
+    },
+    "birthday": "1935-09-07",
+    "ip": "43.177.166.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign media top west. International window special part small.\nPass which result support somebody. Response fly fire best start popular.",
+        "bio": "Mr oil lose save skill brother parent response. Ever senior decide wind some right hope anything. Research beat learn rock deal method."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
